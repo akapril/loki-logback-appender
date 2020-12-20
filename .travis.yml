@@ -4,4 +4,4 @@ jdk:
 branches:
   only:
     - main
-install: gradle check
+install: gradle assemble
